@@ -10,7 +10,7 @@ class: 'WEB601'
 
 # Exercise Name
 
-TODO: Write a exercise description
+The aim of this exercise is to create documentation describing the various React lifecycle methods.
 
 ## Installation
 
@@ -22,7 +22,7 @@ TODO: Write usage instructions
 
 ## Structure 
 
-1. Intorducation to React lifecycle!
+1. Introduction to React lifecycle!
 2. Create a branch for each lifecycle method: `git checkout -b my-new-branch`
 3. Give a description for each lifecycle method with a code example.
 3. Commit your changes: `git commit -am 'Add some feature'`
