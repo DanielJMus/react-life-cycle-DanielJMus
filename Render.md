@@ -6,6 +6,6 @@ Render is the most commonly used React lifecycle method, it is required in order
 
 class HeaderComponent extents Component {
     render () {
-        return <h1>Website Name</h1>
+        return <h1>Website Name!</h1>
     }
 }
